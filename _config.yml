@@ -14,7 +14,8 @@ description              : "A blog that logs my thoughts and experience in my pr
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : assets/images/500.png
+header:
+  image: /assets/images/500.png
 #breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
