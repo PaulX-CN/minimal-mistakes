@@ -15,7 +15,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : #"/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 header:
-  teaser                   : assets/images/500.png
+  overlay_image:         assets/images/500.png
 #breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Paul Xie"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/500.png"
   bio              : "A data scientist who has special focus on NLP."
   location         : "New York, NY"
   email            : "pellinore.x@gmail.com"
