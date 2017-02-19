@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Home of Paul X"
+title                    : "Paul's Blog"
 title_separator          : "-"
 name                     : "Paul Xie"
 description              : "A blog that logs my thoughts and experience in my previous data science project, or some other interesting findings."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/pictures/datascience.png"
+teaser                   : "/assets/images/datascience.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
