@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A data scientist who has special focus on NLP."
   location         : "New York, NY"
-  pellinore.x@gmail.com           : "pellinore.x@gmail.com"
+  email            : "pellinore.x@gmail.com"
   uri              : "paulx-cn.github.io"
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  paulx-cn.github.com           : 'paulx-cn.github.com'
+  github           : 'paulx-cn.github.com'
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin.com/in/paul-xie         : 'linkedin.com/in/paul-xie'
+  linkedin         : 'linkedin.com/in/paul-xie'
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
