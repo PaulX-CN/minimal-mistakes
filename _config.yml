@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Paul Xie's Tech Blog"
+title                    : "Home of Paul X"
 title_separator          : "-"
 name                     : "Paul Xie"
 description              : "A blog that logs my thoughts and experience in my previous data science project, or some other interesting findings."
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Paul Xie"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Trying to do something great."
+  bio              : "A data scientist who has special focus on NLP."
   location         : "New York, NY"
-  email            : "pellinore.x@gmail.com"
+  pellinore.x@gmail.com           : "pellinore.x@gmail.com"
   uri              : "paulx-cn.github.io"
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 'paulx-cn.github.com'
+  paulx-cn.github.com           : 'paulx-cn.github.com'
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 'linkedin.com/in/paul-xie'
+  linkedin.com/in/paul-xie         : 'linkedin.com/in/paul-xie'
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
