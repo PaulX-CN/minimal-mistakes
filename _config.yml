@@ -248,7 +248,7 @@ defaults:
 collections:
    articles:
     output: true
-    permalink: /articles/:path/:title
+    permalink: /articles
 
 defaults:
   # _portfolio
