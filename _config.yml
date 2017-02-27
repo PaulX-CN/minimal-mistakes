@@ -244,3 +244,18 @@ defaults:
       comments:  true
       share: true
       related: true
+
+collections:
+- articles:
+  output: true
+  permalink: /articles/:path/:title
+
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: single
+      author_profile: false
+      share: true
