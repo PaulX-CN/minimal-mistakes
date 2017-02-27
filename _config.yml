@@ -246,7 +246,7 @@ defaults:
       related: true
 
 collections:
-  - articles:
+   articles:
     output: true
     permalink: /articles/:path/:title
 
