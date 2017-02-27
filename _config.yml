@@ -248,7 +248,7 @@ defaults:
 collections:
    articles:
     output: true
-    permalink: /articles
+    permalink: /:collection/:path/
 
 defaults:
   # _portfolio
@@ -257,5 +257,5 @@ defaults:
       type: articles
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
