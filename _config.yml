@@ -246,9 +246,9 @@ defaults:
       related: true
 
 collections:
-- articles:
-  output: true
-  permalink: /articles/:path/:title
+  - articles:
+    output: true
+    permalink: /articles/:path/:title
 
 defaults:
   # _portfolio
